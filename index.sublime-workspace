@@ -1,0 +1,398 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"b",
+				"inline-block\tdisplay"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"f",
+				"font-family\tproperty"
+			],
+			[
+				"na",
+				"name\tAttr"
+			],
+			[
+				"ps",
+				"position\tproperty"
+			],
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"c",
+				"cover\tbackground-size"
+			],
+			[
+				"backgro",
+				"background-image\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"ov",
+				"overflow\tproperty"
+			],
+			[
+				"n",
+				"none\tborder-left"
+			],
+			[
+				"sty",
+				"style\tAttr"
+			],
+			[
+				"bor",
+				"border-left\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"a",
+				"a\tTag"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"o",
+				"overflow\tproperty"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"in",
+				"inline\tdisplay"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"type",
+				"list-style-type\tproperty"
+			],
+			[
+				"di",
+				"decimal\tlist-style-type"
+			],
+			[
+				"li",
+				"list-style-type\tproperty"
+			],
+			[
+				"img",
+				"img1"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"lett",
+				"border-left-style\tproperty"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"s",
+				"sans-serif\tfont-family"
+			],
+			[
+				"le",
+				"letter-spacing\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tbackground"
+			],
+			[
+				"hea",
+				"header\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Package Control: css",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Hossain/OneDrive/Desktop/braket/style.css",
+		"/C/Users/Hossain/OneDrive/Desktop/braket/index.html",
+		"/C/Users/Hossain/OneDrive/Desktop/braket/ishaam-1.jpg",
+		"/C/Users/Hossain/OneDrive/Desktop/braket/indx.html",
+		"/C/Users/Hossain/OneDrive/Desktop/braket/syle.css",
+		"/C/Users/Hossain/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Hossain/OneDrive/Desktop/web/style.css",
+		"/C/Users/Hossain/OneDrive/Desktop/web/index.html",
+		"/C/Users/Hossain/OneDrive/Desktop/Coding/index.html",
+		"/C/Users/Hossain/OneDrive/Desktop/Coding/styles.css",
+		"/C/Users/Hossain/OneDrive/Desktop/Code learning/style.css",
+		"/C/Users/Hossain/OneDrive/Desktop/Code learning/index.html",
+		"/C/Users/Hossain/OneDrive/Desktop/web/aboutme.html",
+		"/C/Users/Hossain/OneDrive/Desktop/web/aboutme.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 196.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
